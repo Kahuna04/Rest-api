@@ -196,3 +196,435 @@ sudo tsc
 sudo node app.js
 sudo touch vercel.json
 sudo nano vercel.json
+ls
+sudo rm awscliv2
+sudo rm awscliv2.zip
+ls
+sudo cat app.ts.save
+sudo rm app.t
+ls
+sudo cat vercwl.json
+sudo cat vercel.json
+clear
+sudo cat app.ts
+sudo nano app.ts
+git push
+git status
+git login
+git --help
+clear
+sudo tsc
+sudo node app.js
+npm i express
+sudo npm i express
+sudo node app.js
+sudo cat app.ts
+sudo nano app.ts
+sudo tsc
+sudo node app.js
+sudo nano app.ts
+sudo node app.js
+sudo nano app.ts
+sudo node app.js
+sudo tsc
+sudo node app.js
+npm install -g vercel
+sudo npm install -g vercel
+sudo vercel login
+ls
+sudo nano vercel.json
+ls
+sudo nano vercel.json
+sudo vercel login
+sudo nano vercel.json
+sudo node app.js
+git add .
+git commit -m "Your commit message here"
+git push origin main
+sudo git push origin main
+git branch
+sudo git push origin master
+git checkout main
+git checkout master
+sudo git push master
+sudo git push KanaApp main
+Sudo apt-get install git
+sudo apt-get install git
+git --version
+GFG-USER
+sudo GFG-USER
+git config
+git config --global user.name "kahuna04"
+git config --global user.email "ogundele.damilare4@gmail.com"
+git config --list
+mkdir KodoApp
+cd KodoApp
+git init
+sudo git remote add origin  https://github.com/kahun04/KodoApp.git 
+clear
+ls
+cd
+sudo mv app.js app.ts KodoApp
+ls
+sudo mv *.json KodoApp
+ls
+sudo mv express.d.ts KodoApp
+sudo mv node_modules KodoApp
+ls
+cd KodoApp
+ls
+sudo git add .
+sudo git commit -m 'first commit'
+sudo git push origin master
+sudo git remote add origin  https://github.com/kahuna04/KanaApp.git 
+sudo git push origin master
+cd
+mv KodoApp KanaApp
+ls
+cd KanaApp
+sudo git push origin master
+sudo git remote add origin  https://github.com/kahuna04/KanaApp.git 
+sudo git add .
+sudo git commit -m 'first commit'
+sudo git push origin master
+sudo git remote rm origin  https://github.com/kahun04/KodoApp.git 
+sudo git remote remove origin  https://github.com/kahun04/KodoApp.git 
+git remote v
+git remote -v
+git remote remove origin
+git remote -v
+sudo git remote add origin  https://github.com/kahuna04/KanaApp.git 
+git remote -v
+sudo git push origin master
+sudo node app.js
+sudo nano app.ts
+sudo tsc
+sudo node app.js
+clear
+ls
+cd person-api
+ls
+sudo mv docs documentation
+ls
+cd documentation
+sudo cp https://drive.google.com/file/d/1inZW5mYuEYqdJydR1bg4HJzw8ct-hRPn/view?usp=drive_link
+cp --help
+sudo cp -l https://drive.google.com/file/d/1inZW5mYuEYqdJydR1bg4HJzw8ct-hRPn/view?usp=drive_link
+cp --help
+sudo cp -T https://drive.google.com/file/d/1inZW5mYuEYqdJydR1bg4HJzw8ct-hRPn/view?usp=drive_link
+sudo wget --no-check-certificate https://drive.google.com/file/d/1inZW5mYuEYqdJydR1bg4HJzw8ct-hRPn/view?usp=drive_link
+ls
+cd
+cd person-api
+sudo touch README.md
+sudo nano README.md
+ls
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+cd
+sudo rm KanaApp
+sudo rmdir KanaApp
+cd KanaApp
+ls
+sudo rmdir node_modules
+cd
+sudo rm -r KanaApp
+ls
+cd person-api
+sudo node app.js
+sudo nano app.js
+clear
+sudo mkdir person-api
+ls
+cd person-api
+npm init -y
+sudo npm init -y
+ls
+sudo npm install express body-parser
+ls
+sudo touch app.js
+sudo nano app.js
+ls
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo cat app.js
+sudo nano app.js
+sudo node app.js
+ls
+cd person-api
+sudo node app.js
+sudo nano app.js
+clear
+ls
+mkdir docs
+sudo mkdir docs
+cd docs
+clear
+ls
+sudo apt update
+cd person-spi
+cd person-api
+ls
+sudo node app.js
+lsof -i :3000
+cd
+lsof -i :3000
+sudo lsof -i :3000
+sudo 1029(lsof -t -i 3000)
+sudo 1029lsof -t -i 3000
+sudo 1029 lsof -t -i 3000
+sudo kill 1029 lsof -t -i 3000
+sudo kill 1029 
+sudo lsof -i :3000
+sudo node app.js
+cd person-api
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+npm install mongoose
+sudo npm install mongoose
+sudo node app.js
+sudo npm install mongoose-auto-increment
+npm install mongoose@4.1.12
+sudo npm install mongoose@4.1.12
+mongoose -v
+mongoose -version
+sudo mongoose -version
+npm list mongoose
+sudo npm install mongoose-auto-increment
+sudo node app.js
+mongod
+sudo mongod
+sudo apt install mongodb
+wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
+echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu $(lsb_release -cs)/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+sudo apt update
+sudo apt install mongodb-org
+sudo apt-get install gnupg curl
+curl -fsSL https://pgp.mongodb.com/server-7.0.asc |    sudo gpg -o /usr/share/keyrings/mongodb-server-7.0.gpg    --dearmor
+echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-7.0.list
+sudo apt-get update
+sudo apt-get install -y mongodb-org
+sudo systemctl start mongod
+sudo systemctl status mongod
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+clear
+sudo node app.js
+sudo nano app.js
+clear
+sudo apt update
+ls
+cd person-api
+ls
+cd app.js
+sudo nano app.js
+clear
+cd person-api
+sudo node app.js
+ls
+sudo nano app.js
+clear
+sudo nano app.js
+ls
+cd person-api
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+sudo cat app.js
+sudo nano app.js
+ls
+cd person-api
+ls
+sudo node app.js
+clear
+cd person-api
+sudo node app.js
+sudo nano app.js
+sudo node app.js
+sudo nano app.js
+cd person-api
+sudo node app.js
+sudo nano app.js
+ls
+mkdir models
+sudo mkdir models
+cd models
+sudo touch person.js
+sudo nano person.js
+cd
+cd person-api
+sudo mkdir controllers
+cd controllers
+sudo touch personController.js
+sudo nano personController.js
+cd
+cd person-api
+sudo mkdir routes
+cd routes
+sudo touch personRoutes.js
+sudo nano personRoutes.js
+cd
+cd person-api
+sudo nano app.js
+ls
+sudo cat app.js.save.1
+ls
+sudo node app.js
+sudo nano app.js
+cd person-api
+sudo nano app.js
+sudo node app.js
+sudo systemctl status mongod
+sudo node app.js
+cd controllers
+sudo cat personController.js
+cd
+cd person-api
+sudo nano app.js
+ls
+cd controllers
+ls
+sudo nano personControllers.js
+sudo nano personController.js
+cs
+cd
+git status
+cd person-api
+ls
+git add .
+sudo git commit -m "initial commit"
+sudo git remote add origin https://github.com/Kahuna04/Rest-api-hng.git
+sudo git push -u origin main
+git branch
+sudo git push -u origin master
+ls
+cd person-api
+ls
+cd contollers
+cd controllers
+ls
+sudo nano personContoller.js
+sudo nano personController.js
+cd
+cd person-api
+ls
+cd routes
+ls
+sudo nano personRoutes.js
+cd person-api
+cd
+cd contollers
+cd person-api
+cd controllers
+sudo nano personController.js
+cd 
+cd person-api
+ls
+cd models
+sudo nano personModel
+ls
+sudo nano person.js
+sudo nano app.js
+sudo node app.js
+cd
+cd person-api
+sudo node app.js
+sudo nano app.js
+clear
+ls
+cd person-api
+ls
+sudo nano app.js
+clear
+cd person-api
+ls
+sudo nano app.js
+clear
+cd
+sudo rm -r person-api
+ls
+sudo mkdir person-api
+cd person-api
+sudo npm init
+ls
+sudo mkdir controllers models routes
+ls
+sudo npm install express 
+sudo npm install mongoose 
+sudo npm install body-parser dotenv nodemon express-validator
+sudo touch .env
+sudo nano .env
+clear
+sudo vim .env
+clear
+sudo nano .env
+sudo touch app.js
+clear
+sudo nano app.js
+clear
+cd person-api
+ls
+sudo node app.js
+sudo nano app.js
+sudo nano .env
+ls
+sudo node app.js
+sudo nano app.js
+sudo nano .env
+sudo nano app.js
+sudo nano .env
+sudo node app.js
+clear
+ls
+cd person-api
+ls
+sudo nano app.js
+ls
+cd routes
+ls
+sudo touch user.js
+sudo nano user.js
+cd
+cd person-api
+sud
+ls
+clear
+cd controllers
+ls
+sudo touch user.js
+sudo nano user.js
+ld
+ls
+sudo mv user.js userController.js
+ls
+cd 
+cd person-api
+sudo nano .env
+cd models
+ls
+sudo touch user.js
+sudo nano user.js
+ls
+cd
+cd person-api
+ls
+sudo touch userUML
+sudo nano userUML
+sudo nano .env

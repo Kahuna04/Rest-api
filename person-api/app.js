@@ -1,29 +1,21 @@
 const express = require('express');
-const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-const autoIncrement = require('mongoose-auto-increment');
-const personRoutes = require('./routes/personRoutes');
+const bodyParser = require('body-parser');
+require('dotenv').config();
 
 const app = express();
-const port = 3000;
+const PORT = process.env.PORT || 3000;
+
+const db = process.env.MONGODB_URI;
+mongoose.connect(db, { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(() => console.log('Connected to mongodb successfully!'))
+  .catch((Error) => console.log(Error));
 
 app.use(bodyParser.json());
 
-// Connect to your MongoDB database
-mongoose.connect('mongodb://localhost/mydatabase');
-const connection = mongoose.connection;
-autoIncrement.initialize(connection);
+const userRoutes = require('./routes/user');
+app.use('/api', userRoutes);
 
-// Include personRoutes for handling /api/persons routes
-app.use('/api', personRoutes);
-
-// Provide a basic description of the API
-app.get('/api', (req, res) => {
-    res.json({message: 'Welcome to the Person API!',
-    });
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
-
-app.listen(port, () => {
-    console.log(`Server is listening on port ${port}`);
-});
-
